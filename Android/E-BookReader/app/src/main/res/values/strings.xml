@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E_BookReader</string>
+    <string name="Choose_Book">选择图书</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="back">返回</string>
+    <string name="title_activity_choose_file">chooseFile</string>
+
+</resources>
